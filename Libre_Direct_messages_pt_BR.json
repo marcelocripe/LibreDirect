@@ -1,7 +1,7 @@
 {
     "extensionName": {
         "message": "LibRedirect",
-        "description": "Nome da extensão"
+        "description": "Nome da Extensão"
     },
     "extensionDescription": {
         "message": "Uma extensão para os navegadores de internet que redireciona os sítios/sites populares para interfaces gráficas e interfaces de textos alternativas e amigáveis ​​à sua privacidade",
