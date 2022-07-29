@@ -1,10 +1,10 @@
 {
     "extensionName": {
         "message": "LibRedirect",
-        "description": "Nome da Extensão"
+        "description": "Nome da extensão"
     },
     "extensionDescription": {
-        "message": "Uma extensão para os navegadores de internet que redireciona os sítios/sites populares para interfaces gráficas e interfaces de textos alternativas e amigáveis à sua privacidade",
+        "message": "Uma extensão para os navegadores de internet que redireciona os sítios/sites populares para interfaces gráficas e interfaces de textos alternativas e amigáveis ​​à sua privacidade",
         "description": "Descrição da extensão"
     },
     "switchInstance": {
@@ -191,7 +191,7 @@
         "description": "Utilizado no arquivo instance_offline.js"
     },
     "copyRaw": {
-        "message": "Cópiar em Formato Bruto"
+        "message": "Copiar o Link Original"
     },
     "copied": {
         "message": "Copiado"
