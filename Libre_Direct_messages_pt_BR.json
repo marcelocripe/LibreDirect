@@ -1,11 +1,25 @@
 {
-    "extensionName": {
-        "message": "LibRedirect",
-        "description": "Nome da Extensão"
+    "youtube": {
+        "message": "YouTube",
+        "description": "Utilizado na página de configurações"
     },
-    "extensionDescription": {
-        "message": "Uma extensão para os navegadores de internet que redireciona os sítios/sites populares para interfaces gráficas e interfaces de textos alternativas e amigáveis ​​à sua privacidade",
-        "description": "Descrição da Extensão"
+    "ytmusic": {
+        "message": "Músicas do YouTube",
+        "description": "Utilizado na página de configurações"
+    },
+    "cancel": {
+        "message": "Cancelar",
+        "description": "Utilizado no arquivo instance_offline.html"
+    },
+    "unifySettings": {
+        "message": "Unificar as Configurações"
+    },
+    "twitter": {
+        "message": "Twitter",
+        "description": "Utilizado na página de configurações"
+    },
+    "i2p": {
+        "message": "I2P"
     },
     "switchInstance": {
         "message": "Trocar a Instância",
@@ -35,18 +49,6 @@
         "message": "Enviar Arquivos",
         "description": "Utilizado na página de configurações"
     },
-    "youtube": {
-        "message": "YouTube",
-        "description": "Utilizado na página de configurações"
-    },
-    "instagram": {
-        "message": "Instagram",
-        "description": "Utilizado na página de configurações"
-    },
-    "twitter": {
-        "message": "Twitter",
-        "description": "Utilizado na página de configurações"
-    },
     "reddit": {
         "message": "Reddit",
         "description": "Utilizado na página de configurações"
@@ -55,13 +57,13 @@
         "message": "TikTok",
         "description": "Utilizado na página de configurações"
     },
-    "ytmusic": {
-        "message": "Músicas do YouTube",
-        "description": "Utilizado na página de configurações"
-    },
     "imgur": {
         "message": "Imgur",
         "description": "Utilizado na página de configurações"
+    },
+    "extensionName": {
+        "message": "LibRedirect",
+        "description": "Nome da Extensão"
     },
     "wikipedia": {
         "message": "Wikipédia",
@@ -73,6 +75,10 @@
     },
     "medium": {
         "message": "Medium",
+        "description": "Utilizado na página de configurações"
+    },
+    "tor": {
+        "message": "Tor",
         "description": "Utilizado na página de configurações"
     },
     "theme": {
@@ -175,15 +181,11 @@
         "description": "Utilizado na página de configurações"
     },
     "instanceOffline": {
-        "message": "Esta instância está desconectada (off-line), você será redirecionado após&nbsp;",
-        "description": "Utilizado no arquivo instance_offline.html"
-    },
-    "cancel": {
-        "message": "Cancelar",
+        "message": "Esta instância está desconectada (off-line), você será redirecionado após",
         "description": "Utilizado no arquivo instance_offline.html"
     },
     "instanceIsOff": {
-        "message": "A instância está desconectada (off-line)",
+        "message": "Esta instância está desconectada (off-line)",
         "description": "Utilizado no arquivo instance_offline.html"
     },
     "redirectionCanceled": {
@@ -191,13 +193,10 @@
         "description": "Utilizado no arquivo instance_offline.js"
     },
     "copyRaw": {
-        "message": "Copiar o Link Original"
+        "message": "Copiar o URL Original"
     },
     "copied": {
         "message": "Copiado"
-    },
-    "unifySettings": {
-        "message": "Unificar as Configurações"
     },
     "lbry": {
         "message": "LBRY"
@@ -205,7 +204,12 @@
     "testInstancesLatency": {
         "message": "Testar a Latência das Instâncias"
     },
-    "protocolFallback": {
-        "message": "Retornar ao normal se não houver outras instâncias disponíveis para o protocolo atual"
+    "extensionDescription": {
+        "message": "Uma extensão para os navegadores de internet que redireciona os sítios/sites populares para interfaces gráficas e interfaces de textos alternativas e amigáveis que respeitam sua privacidade",
+        "description": "Descrição da Extensão"
+    },
+    "instagram": {
+        "message": "Instagram",
+        "description": "Utilizado na página de configurações"
     }
 }
